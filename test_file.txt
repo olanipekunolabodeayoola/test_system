@@ -1,0 +1,1 @@
+testing creating of a subfolder under GitHub and moving existing files and folders into the latter
